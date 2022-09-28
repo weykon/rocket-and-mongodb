@@ -9,3 +9,4 @@ pub struct User {
     pub location: String,
     pub title: String,
 }
+
